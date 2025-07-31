@@ -45,14 +45,12 @@ cd TechToDo
 python -m venv venv
 venv\Scripts\activate         # Windows
 source venv/bin/activate      # macOS/Linux
-Execute o app:
+Execute o app: python main.py
 
 
-
-
-python main.py
 ## 📂 Estrutura do projeto
 
+```text
 TechToDo/
 ├── data/
 │   └── tasks.json         # Armazena as tarefas salvas
@@ -64,6 +62,8 @@ TechToDo/
 ├── requirements.txt       # (vazio por enquanto)
 ├── .gitignore             # Ignora venv, __pycache__, etc
 └── README.md              # Documentação do projeto
+```
+
 
 ## 🔧 Extensões recomendadas (VS Code)
 
