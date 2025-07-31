@@ -51,9 +51,7 @@ Execute o app:
 
 
 python main.py
-📂 Estrutura do projeto
-
-
+## 📂 Estrutura do projeto
 
 TechToDo/
 ├── data/
@@ -67,14 +65,17 @@ TechToDo/
 ├── .gitignore             # Ignora venv, __pycache__, etc
 └── README.md              # Documentação do projeto
 
-🔧 Extensões recomendadas (VS Code)
-Extensão	    Finalidade
-Python	        Execução e debug de scripts
-Pylance	        IntelliSense e tipagem
-AutoDocstring	Geração automática de docstrings
-Black Formatter	Formatação automática do código
-isort	        Organização dos imports
-DotENV	        (Para futuros projetos com .env)
+## 🔧 Extensões recomendadas (VS Code)
+
+| Extensão         | Finalidade                        |
+|------------------|-----------------------------------|
+| Python           | Execução e debug de scripts       |
+| Pylance          | IntelliSense e tipagem            |
+| AutoDocstring    | Geração automática de docstrings  |
+| Black Formatter  | Formatação automática do código   |
+| isort            | Organização dos imports           |
+| DotENV           | (Para futuros projetos com `.env`) |
+
 
 🚀 Aprendizados do projeto
 📦 Estruturação modular com Python
