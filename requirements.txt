@@ -1,0 +1,3 @@
+# Nenhuma dependência externa obrigatória
+# Mas você pode usar futuramente:
+# rich==13.7.0   # Para deixar o terminal mais bonito

@@ -1,0 +1,18 @@
+[
+    {
+        "descricao": "Estudar LBW",
+        "feito": true
+    },
+    {
+        "descricao": "Estudar Python",
+        "feito": true
+    },
+    {
+        "descricao": "preencher inocuidade",
+        "feito": false
+    },
+    {
+        "descricao": "comer batata",
+        "feito": false
+    }
+]
