@@ -35,7 +35,7 @@ Clone o repositório:
 
 
 
-git clone https://github.com/SEU-USUARIO/TechToDo.git
+git clone https://github.com/IgorCazale/TechToDo
 cd TechToDo
 (Opcional) Crie e ative o ambiente virtual:
 
