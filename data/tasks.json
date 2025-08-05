@@ -1,18 +1,29 @@
 [
     {
-        "descricao": "Estudar LBW",
+        "descricao": "Estudar Css",
         "feito": true
     },
     {
-        "descricao": "Estudar Python",
-        "feito": true
-    },
-    {
-        "descricao": "preencher inocuidade",
+        "descricao": "LBW Workflow",
         "feito": false
     },
     {
-        "descricao": "comer batata",
+        "descricao": "Treinar py",
         "feito": false
+    },
+    {
+        "descricao": "Atualizar read.me",
+        "feito": false
+    },
+    {
+        "descricao": "Escolher Ativos de rede",
+        "feito": false,
+        "prioridade": "Média"
+    },
+    {
+        "descricao": "Lote cobaias",
+        "feito": false,
+        "prioridade": "Alta",
+        "prazo": "01/09/2025"
     }
 ]
